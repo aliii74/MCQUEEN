@@ -100,8 +100,7 @@ th,
 td,
 u,
 ul,
-var,
-video {
+var {
   font-size: 100%;
   vertical-align: baseline;
   margin: 0;
