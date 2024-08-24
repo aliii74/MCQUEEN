@@ -1,39 +1,10 @@
 @charset "UTF-8";
-/* ---------------------------------------------------------
-    * Name: Motorx
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-        * alert
-
-    * widget
-
-    * Pages
-        * home 
-
- ------------------------------------------------------------------------------ */
 /*--------- Animation ---------- */
 @import "animation.css";
-/*--------- Abstracts variable ---------- */
-@import "map.min.css";
-/*--------- Map ---------- */
-@import "magnific-popup.min.css";
-/*--------- Magnific-popup ---------- */
-@import "animate.min.css";
-/*--------- Abstracts variable ---------- */
-@import "swiper-bundle.min.css";
-/*--------- Abstracts variable ---------- */
+
 @import "../icon/icomoon/style.css";
-/*--------- Abstracts variable ---------- */
-@import "bootstrap.css";
-/*--------- Abstracts variable ---------- */
-/*---------- Reset css styles ----------- */
+
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap");
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,900;0,9..40,1000;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900;1,9..40,1000&amp;display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&amp;display=swap");
@@ -9374,13 +9345,7 @@ a.mapboxgl-ctrl-logo {
   .col-md-6:not(:last-child) > .tf-car-service-v2 {
     margin-bottom: 30px;
   }
-  .tf-slide-form-v2 .slide-form-v2 .slider-wrap {
-    flex-direction: column;
-  }
-  .tf-slide-form-v2 .slide-form-v2 .slider-wrap .slide-content,
-  .tf-slide-form-v2 .slide-form-v2 .slider-wrap .slide-box-form {
-    max-width: 100%;
-  }
+
   .counter-v2 {
     align-items: center;
     flex-direction: column;
@@ -9939,6 +9904,4 @@ a.mapboxgl-ctrl-logo {
     padding: 10px 15px;
   }
 }
-/*-------------- Font ----------------- */
 
-/*# sourceMappingURL=style.css.map */
